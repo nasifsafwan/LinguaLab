@@ -31,13 +31,11 @@ Copy code
 git clone https://github.com/nasifsafwan/LinguaLab.git
 cd LinguaLab
 2️⃣ Create a Virtual Environment
-bash
-Copy code
+````bash
 python -m venv venv
 Activate it:
 
 # On Linux/Mac
-```bash
 source venv/bin/activate
 
 # On Windows
@@ -47,7 +45,6 @@ pip install -r requirements.txt
 ```
 4️⃣ Run the Application
 ```bash
-Copy code
 python app.py
 5️⃣ Open in Browser
 cpp
