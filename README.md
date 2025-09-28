@@ -56,4 +56,3 @@ Contributions, issues, and feature requests are welcome!
 - Md. Nasif Safwan
 - Souhardo Rahman
 - Md. Abdulla Al Hasib
-- 🎓 Computer Science & Engineering Students
