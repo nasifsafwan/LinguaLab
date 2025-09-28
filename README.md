@@ -36,42 +36,25 @@ Copy code
 python -m venv venv
 Activate it:
 
-bash
-Copy code
 # On Linux/Mac
+```bash
 source venv/bin/activate
 
 # On Windows
 venv\Scripts\activate
 3️⃣ Install Dependencies
-bash
-Copy code
 pip install -r requirements.txt
+```
 4️⃣ Run the Application
-bash
+```bash
 Copy code
 python app.py
 5️⃣ Open in Browser
 cpp
 Copy code
 http://127.0.0.1:5000/
-
-## 📂 Project Structure
-
-```bash
-LinguaLab/
-│── app.py                # Main application
-│── requirements.txt      # Python dependencies
-│── static/               # Static assets (CSS, JS, images)
-│── templates/            # HTML templates
-│── utils/                # Helper functions (similarity, n-gram, etc.)
-│── README.md             # Documentation
-
-
-
-
-
-🤝 Contributing
+```
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Fork the project
@@ -84,10 +67,10 @@ Push to the branch (git push origin feature/awesome-feature)
 
 Open a Pull Request
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Md. Nasif Safwan
 🎓 Computer Science & Engineering Student | 🔬 Data Science & Machine Learning Enthusiast
 
