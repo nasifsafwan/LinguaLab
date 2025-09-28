@@ -24,17 +24,7 @@ It provides a hands-on interface to explore algorithms such as Minimum Edit Dist
 
 ---
 
-## 📂 Project Structure
-
-```bash
-LinguaLab/
-│── app.py                # Main application
-│── requirements.txt      # Python dependencies
-│── static/               # Static assets (CSS, JS, images)
-│── templates/            # HTML templates
-│── utils/                # Helper functions (similarity, n-gram, etc.)
-│── README.md             # Documentation
-⚡ Installation & Usage
+## ⚡ Installation & Usage
 1️⃣ Clone the Repository
 bash
 Copy code
@@ -65,8 +55,21 @@ python app.py
 cpp
 Copy code
 http://127.0.0.1:5000/
-📊 Demo
-Add screenshots or GIFs of your web app in action here.
+
+## 📂 Project Structure
+
+```bash
+LinguaLab/
+│── app.py                # Main application
+│── requirements.txt      # Python dependencies
+│── static/               # Static assets (CSS, JS, images)
+│── templates/            # HTML templates
+│── utils/                # Helper functions (similarity, n-gram, etc.)
+│── README.md             # Documentation
+
+
+
+
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
