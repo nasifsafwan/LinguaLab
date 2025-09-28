@@ -53,7 +53,7 @@ http://127.0.0.1:5000/
 Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Authors
-Md. Nasif Safwan
-Souhardo Rahman
-Md. Abdulla Al Hasib
-🎓 Computer Science & Engineering Students
+- Md. Nasif Safwan
+- Souhardo Rahman
+- Md. Abdulla Al Hasib
+- 🎓 Computer Science & Engineering Students
