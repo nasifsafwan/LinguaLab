@@ -17,9 +17,8 @@ It provides a hands-on interface to explore algorithms such as Minimum Edit Dist
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python (Flask / Django / Streamlit)  
+- **Backend:** Python (Streamlit)  
 - **NLP Libraries:** NLTK, spaCy, HuggingFace Transformers, Scikit-learn  
-- **Frontend:** HTML, CSS, JavaScript (Jinja2 templates if Flask is used)  
 - **Utilities:** NumPy, Pandas  
 
 ---
@@ -52,9 +51,6 @@ http://127.0.0.1:5000/
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-
-## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 👨‍💻 Authors
 Md. Nasif Safwan
