@@ -25,13 +25,13 @@ It provides a hands-on interface to explore algorithms such as Minimum Edit Dist
 ---
 
 ## ⚡ Installation & Usage
+
+```bash
 1️⃣ Clone the Repository
-bash
 Copy code
 git clone https://github.com/nasifsafwan/LinguaLab.git
 cd LinguaLab
 2️⃣ Create a Virtual Environment
-````bash
 python -m venv venv
 Activate it:
 
@@ -42,9 +42,7 @@ source venv/bin/activate
 venv\Scripts\activate
 3️⃣ Install Dependencies
 pip install -r requirements.txt
-```
 4️⃣ Run the Application
-```bash
 python app.py
 5️⃣ Open in Browser
 cpp
