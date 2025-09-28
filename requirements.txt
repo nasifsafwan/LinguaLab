@@ -1,0 +1,5 @@
+streamlit
+numpy
+transformers
+datasets
+scikit-learn
