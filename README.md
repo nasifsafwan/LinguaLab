@@ -49,26 +49,15 @@ cpp
 Copy code
 http://127.0.0.1:5000/
 ```
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-
-Fork the project
-
-Create your feature branch (git checkout -b feature/awesome-feature)
-
-Commit your changes (git commit -m "Add awesome feature")
-
-Push to the branch (git push origin feature/awesome-feature)
-
-Open a Pull Request
 
 ## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 Md. Nasif Safwan
-🎓 Computer Science & Engineering Student | 🔬 Data Science & Machine Learning Enthusiast
-
-🌐 GitHub
-💼 LinkedIn
-
+Souhardo Rahman
+Md. Abdulla Al Hasib
+🎓 Computer Science & Engineering Students
